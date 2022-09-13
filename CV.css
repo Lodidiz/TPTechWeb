@@ -16,3 +16,6 @@
   height:950px;
   background-color: aqua;
 }
+#cv #img{
+  border-radius: 80%;
+}
